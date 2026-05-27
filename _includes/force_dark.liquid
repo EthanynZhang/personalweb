@@ -1,0 +1,10 @@
+<script>
+  (function () {
+    try {
+      localStorage.setItem("theme", "dark");
+      document.documentElement.setAttribute("data-theme", "dark");
+    } catch (error) {
+      document.documentElement.setAttribute("data-theme", "dark");
+    }
+  })();
+</script>
