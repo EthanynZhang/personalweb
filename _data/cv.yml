@@ -1,10 +1,10 @@
 cv:
   name: Zhang Yining Ethan
-  label: PhD Student in Education Technology
+  label: PhD Student
   email: yi-ning.zhang@connect.polyu.hk
   location: Hong Kong SAR, China
   image: ""
-  summary: Full-time PhD student at The Hong Kong Polytechnic University researching Generative AI for second-language learning, embodied conversational agents, VR/XR in education, CALL, HCI, and game-based learning.
+  summary: Full-time PhD student at The Hong Kong Polytechnic University researching Generative AI for language learning, embodied conversational agents, VR/XR in education, CALL, HCI, and game-based learning.
 
   social_networks:
     - network: GitHub
@@ -14,14 +14,13 @@ cv:
     Education:
       - institution: The Hong Kong Polytechnic University
         location: Hong Kong SAR, China
-        area: Education Technology
+        area: AI in Education, VR Assisted Language Learning
         studyType: Full-time PhD Student
-        start_date: Current
+        start_date: 2026-01
         end_date: Present
         highlights:
           - "Supervisor: Prof. Di Zou."
-          - "Thesis: Pedagogical Fidelity in GenAI: Designing and Evaluating Embodied Conversational Agents for L2 Language Learning."
-
+        
       - institution: Peking University
         location: Beijing, China
         area: Computer Technology

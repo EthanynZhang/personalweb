@@ -29,10 +29,12 @@ latest_posts:
 
 {% include force_dark.liquid %}
 
-I am a full-time PhD student in Education Technology at The Hong Kong Polytechnic University, supervised by Prof. Di Zou. My research asks how Generative AI and Virtual Reality can support second-language learning, especially when AI moves beyond text-only chatbots into embodied conversational agents with distinct personalities, teaching strategies, and interaction behaviors.
+I am a full-time PhD student in at The Hong Kong Polytechnic University, supervised by Prof. Di Zou. I study how Generative AI and Virtual Reality can support second-language learning. In practice, this means I build AI-driven learning experiences with game engines, real-time rendering technologies, and XR systems, then ask a simple but stubborn question: how do people’s interactions in virtual environments shape their learning, and how can technology better support that process?
 
-My current thesis is **Pedagogical Fidelity in GenAI: Designing and Evaluating Embodied Conversational Agents for L2 Language Learning**. I build and study AI-driven learning experiences with game engines, real-time rendering technologies, and XR systems, focusing on learner engagement, spoken L2 practice, pedagogical fidelity, and performance.
+Before PolyU, I completed a Master of Engineering at Peking University and a Bachelor of Engineering at Shandong University. Along the way, I also briefly tried being a youtuber, product manager, programmer, middle-school teacher, and entrepreneur. Most of these careers did not survive peer review or commercial review, but each left useful life data.
 
-Before PolyU, I completed a Master of Engineering in Computer Technology at Peking University and a Bachelor of Engineering in Digital Media Technology at Shandong University. My work sits across **AI in education**, **VR/AR/XR in education**, **Computer-Assisted Language Learning**, **Human-Computer Interaction**, and **game-based learning**.
+Those detours shaped the questions I now care about. As a volunteer teacher with Teach for China, a learning-methods lecturer at Hailiang Education, and a student lecturer for AIGC at Peking University's Geek Lab, I met thousands of learners from very different educational environments. I also come from a small-town background, so I have seen how talent, effort, anxiety, and exam-driven systems can collide long before anyone gets to call it a research problem.
 
-I am especially interested in projects where technical systems are not only demos, but instruments for testing learning mechanisms: embodied cognition, presence, trust, social cues, spatial reasoning, and human-AI interaction in educational contexts.
+That is why my work sits across AI in education, VR/AR/XR in education, Computer-Assisted Language Learning, Human-Computer Interaction, and game-based learning. I am especially interested in projects where technical systems are more than shiny demos: they help us address real social problems and make the world a little more peaceful, inclusive, and humane.
+
+Outside the lab, I live with an Abyssinian cat named Chouchou, some crabs, some fire red shrimp, three turtles, and a budgerigar named Yeahyi. Together, they have contributed generously to my understanding of attention, agency, territorial behavior, and unsolicited interaction design feedback.
