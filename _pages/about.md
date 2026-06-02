@@ -29,7 +29,7 @@ latest_posts:
 
 {% include force_dark.liquid %}
 
-I am a full-time PhD student in at The Hong Kong Polytechnic University, supervised by Prof. Di Zou. I study how Generative AI and Virtual Reality can support second-language learning. In practice, this means I build AI-driven learning experiences with game engines, real-time rendering technologies, and XR systems, then ask a simple but stubborn question: how do people’s interactions in virtual environments shape their learning, and how can technology better support that process?
+I am a full-time PhD student at The Hong Kong Polytechnic University, supervised by Prof. Di Zou. I study how Generative AI and Virtual Reality can support second-language learning. In practice, this means I build AI-driven learning experiences with game engines, real-time rendering technologies, and XR systems, then ask a simple but stubborn question: how do people’s interactions in virtual environments shape their learning, and how can technology better support that process?
 
 Before PolyU, I completed a Master of Engineering at Peking University and a Bachelor of Engineering at Shandong University. Along the way, I also briefly tried being a youtuber, product manager, programmer, middle-school teacher, and entrepreneur. Most of these careers did not survive peer review or commercial review, but each left useful life data.
 
