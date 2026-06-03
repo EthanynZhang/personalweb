@@ -15,6 +15,10 @@
   box-shadow: 0 14px 36px rgba(0, 0, 0, 0.2);
 }
 
+.academic-site-header #progress {
+  display: none;
+}
+
 #navbar.academic-navbar {
   position: relative;
   min-height: 96px;
@@ -171,6 +175,21 @@
 
 #navbar .academic-navbar-toggler .icon-bar {
   background-color: var(--academic-nav-text);
+}
+
+@media (min-width: 768px) {
+  #navbar .academic-navbar-toggler {
+    display: none;
+  }
+
+  #navbar .academic-navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+
+  #navbar .academic-menu {
+    flex-direction: row;
+  }
 }
 
 @media (max-width: 991.98px) {
