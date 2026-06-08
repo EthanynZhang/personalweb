@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://oneflowerinsoft.github.io/EthanZHANG/sitemap.xml

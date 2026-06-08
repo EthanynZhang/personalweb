@@ -1,0 +1,19 @@
+{
+	"name": "Zhang Yining Ethan",
+	"short_name": "Zhang Yining Ethan",
+	"description": "PhD student at The Hong Kong Polytechnic University researching Generative AI, embodied conversational agents, VR/XR, CALL, HCI, and game-based learning.",
+	"start_url": "/EthanZHANG",
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
