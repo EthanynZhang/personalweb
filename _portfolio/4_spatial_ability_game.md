@@ -1,6 +1,6 @@
 ---
 title: "Spatial Ability Assessment Through Video Games"
-excerpt: "Educational game development for children's spatial reasoning and assessment.<br/><img src='/EthanZHANG/images/projects/3.jpg'>"
+excerpt: "Educational game development for children's spatial reasoning and assessment.<br/><img src='/personalweb/images/projects/3.jpg'>"
 collection: portfolio
 permalink: /projects/spatial-ability-game/
 ---

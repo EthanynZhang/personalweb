@@ -1,6 +1,6 @@
 ---
 title: "XR Archaeological Inquiry-Based Learning"
-excerpt: "Spatial reasoning in action through XR and game-based scientific inquiry.<br/><img src='/EthanZHANG/images/projects/1.jpg'>"
+excerpt: "Spatial reasoning in action through XR and game-based scientific inquiry.<br/><img src='/personalweb/images/projects/1.jpg'>"
 collection: portfolio
 permalink: /projects/archaeology-xr/
 ---

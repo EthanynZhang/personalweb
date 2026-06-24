@@ -12,6 +12,6 @@ As a student lecturer at Geek Lab of Peking University, I taught Unity, AIGC, an
 
 My role combined technical instruction and project mentoring. I helped students understand how to move from a vague creative concept to a working interactive system, how to debug Unity scenes, and how to use AI tools responsibly as part of a design workflow.
 
-![AIGC and game development teaching session](/EthanZHANG/images/teaching/unityclass.jpg)
+![AIGC and game development teaching session]({{ site.baseurl }}/images/teaching/unityclass.jpg)
 
-![Student project-based Unity and AIGC class](/EthanZHANG/images/teaching/unityclass2.jpg)
+![Student project-based Unity and AIGC class]({{ site.baseurl }}/images/teaching/unityclass2.jpg)

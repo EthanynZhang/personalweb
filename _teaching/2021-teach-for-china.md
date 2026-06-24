@@ -12,10 +12,10 @@ As a volunteer teaching team leader, I participated in community-based teaching 
 
 This experience made educational inequality concrete. I met students whose learning opportunities were shaped by geography, exam pressure, and uneven access to educational resources, which is one reason I care about technologies that can expand practice opportunities rather than simply decorate already privileged classrooms.
 
-![Volunteer teaching activity in Inner Mongolia](/EthanZHANG/images/teaching/inner1.jpg)
+![Volunteer teaching activity in Inner Mongolia]({{ site.baseurl }}/images/teaching/inner1.jpg)
 
-![Community-based education support activity](/EthanZHANG/images/teaching/inner5.jpg)
+![Community-based education support activity]({{ site.baseurl }}/images/teaching/inner5.jpg)
 
-![Volunteer outreach with local students](/EthanZHANG/images/teaching/inner3.jpg)
+![Volunteer outreach with local students]({{ site.baseurl }}/images/teaching/inner3.jpg)
 
-![Learning support during volunteer teaching](/EthanZHANG/images/teaching/inner4.jpg)
+![Learning support during volunteer teaching]({{ site.baseurl }}/images/teaching/inner4.jpg)

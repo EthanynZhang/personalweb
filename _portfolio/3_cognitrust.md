@@ -1,6 +1,6 @@
 ---
 title: "CogniTrust"
-excerpt: "Studying how emotionally charged comments shape trust and decision-making.<br/><img src='/EthanZHANG/images/projects/2.jpg'>"
+excerpt: "Studying how emotionally charged comments shape trust and decision-making.<br/><img src='/personalweb/images/projects/2.jpg'>"
 collection: portfolio
 permalink: /projects/cognitrust/
 ---

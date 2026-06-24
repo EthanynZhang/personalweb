@@ -1,6 +1,6 @@
 ---
 title: "Embodied Conversational Agents for L2 Learning"
-excerpt: "Designing and evaluating GenAI-driven agents for spoken second-language practice.<br/><img src='/EthanZHANG/images/projects/rhino.png'>"
+excerpt: "Designing and evaluating GenAI-driven agents for spoken second-language practice.<br/><img src='/personalweb/images/projects/rhino.png'>"
 collection: portfolio
 permalink: /projects/embodied-agents-l2/
 ---

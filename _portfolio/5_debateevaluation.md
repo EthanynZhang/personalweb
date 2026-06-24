@@ -1,6 +1,6 @@
 ---
 title: "DebateEvaluation"
-excerpt: "An AI-assisted debate and programming learning platform.<br/><img src='/EthanZHANG/images/projects/4.jpg'>"
+excerpt: "An AI-assisted debate and programming learning platform.<br/><img src='/personalweb/images/projects/4.jpg'>"
 collection: portfolio
 permalink: /projects/debateevaluation/
 ---

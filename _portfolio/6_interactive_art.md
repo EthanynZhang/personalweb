@@ -1,6 +1,6 @@
 ---
 title: "Interactive Art Systems"
-excerpt: "AI-Echo, Serious Space, and multimodal interactive experiences.<br/><img src='/EthanZHANG/images/projects/5.jpg'>"
+excerpt: "AI-Echo, Serious Space, and multimodal interactive experiences.<br/><img src='/personalweb/images/projects/5.jpg'>"
 collection: portfolio
 permalink: /projects/interactive-art-systems/
 ---

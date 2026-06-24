@@ -12,6 +12,6 @@ At Hailiang Education, I delivered outreach lectures on popular science and lear
 
 Rather than presenting science as a list of facts, I tried to make learning methods visible: how to ask better questions, how to break down difficult topics, how to practice deliberately, and how to stay curious when school learning becomes exam-centered.
 
-![Popular science and learning-method outreach session](/EthanZHANG/images/teaching/hailiang1.jpg)
+![Popular science and learning-method outreach session]({{ site.baseurl }}/images/teaching/hailiang1.jpg)
 
-![Learning-method lecture at Hailiang Education](/EthanZHANG/images/teaching/hailiang2.jpg)
+![Learning-method lecture at Hailiang Education]({{ site.baseurl }}/images/teaching/hailiang2.jpg)

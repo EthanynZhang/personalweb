@@ -13,10 +13,10 @@ title                    : "Zhang Yining Ethan"
 title_separator          : "-"
 name                     : &name "Zhang Yining Ethan"
 description              : &description "PhD student at The Hong Kong Polytechnic University researching Generative AI, embodied conversational agents, VR/XR, CALL, HCI, and game-based learning."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://oneflowerinsoft.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://ethanynzhang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/EthanZHANG" # the subpath of your site, e.g. "/blog"
-repository               : "oneflowerinsoft/EthanZHANG"
+baseurl                  : "/personalweb" # the subpath of your site, e.g. "/blog"
+repository               : "Ethanynzhang/personalweb"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   bio              : "Full-time PhD student researching GenAI, embodied conversational agents, VR/XR, CALL, HCI, and game-based learning."
   location         : "Hong Kong SAR, China"
   employer         : "The Hong Kong Polytechnic University"
-  uri              : "https://oneflowerinsoft.github.io/EthanZHANG"
+  uri              : "https://ethanynzhang.github.io/personalweb"
   email            : "yi-ning.zhang@connect.polyu.hk"
 
   # Academic websites
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "oneflowerinsoft"
+  github           : "Ethanynzhang"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
