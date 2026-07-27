@@ -1,6 +1,7 @@
 ---
 title: "The Impact of VR-Based Training on Spatial Ability Enhancement in Older Adults: An Embodied Cognition Perspective"
 collection: publications
+published: false
 category: manuscripts
 permalink: /publication/older-adults-spatial
 excerpt: "A VR-based training study on spatial ability enhancement in older adults."
