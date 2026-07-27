@@ -1,0 +1,23 @@
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="publication__item">
+  <article itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <h3 class="publication__title" itemprop="headline">{{ title | strip_html }}</h3>
+
+    {% if post.venue %}
+      <p class="publication__meta">Published in <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p class="publication__excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>
+    {% endif %}
+
+    {% if post.citation %}
+      <p class="publication__citation">Recommended citation: {{ post.citation | strip_html }}</p>
+    {% endif %}
+  </article>
+</div>

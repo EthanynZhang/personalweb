@@ -84,6 +84,31 @@
   }
 }
 
+/* Compact, non-clickable publication entries. */
+.publications-list {
+  .publication__item {
+    margin-bottom: 1.5rem;
+  }
+
+  .publication__title {
+    margin: 0 0 0.3rem;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+
+  .publication__meta,
+  .publication__excerpt,
+  .publication__citation {
+    margin: 0 0 0.35rem;
+    font-size: 0.8rem;
+    line-height: 1.55;
+  }
+
+  .publication__citation {
+    color: var(--global-text-color-light);
+  }
+}
+
 
 /*
    List view
