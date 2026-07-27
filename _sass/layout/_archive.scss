@@ -66,6 +66,32 @@
   }
 }
 
+.project__status {
+  margin: 0 0 0.45rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.project__status--in-progress {
+  color: #8a4c00;
+}
+
+.project__status--completed {
+  color: #076b59;
+}
+
+.project__status-period {
+  margin-left: 0.4rem;
+  font-weight: 400;
+}
+
+.project__detail-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.25rem 0 1.5rem;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
