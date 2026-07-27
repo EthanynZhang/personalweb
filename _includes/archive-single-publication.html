@@ -17,7 +17,8 @@
     {% endif %}
 
     {% if post.citation %}
-      <p class="publication__citation">Recommended citation: {{ post.citation | strip_html }}</p>
+      {% assign citation = post.citation | replace: 'Zhang, Yining', '<strong>Zhang, Yining</strong>' | replace: 'Zhang, Y.', '<strong>Zhang, Y.</strong>' %}
+      <p class="publication__citation">{{ citation }}</p>
     {% endif %}
   </article>
 </div>
